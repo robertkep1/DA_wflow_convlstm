@@ -1,8 +1,6 @@
 
 # coding: utf-8
 
-# In[2]:
-
 
 import netCDF4 as nc
 from numpy import save
